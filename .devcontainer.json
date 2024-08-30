@@ -1,4 +1,6 @@
-{
+{"features": {
+  "ghcr.io/itsmechlark/features/postgresql:1.5.0": {}
+}
     "image": "mcr.microsoft.com/devcontainers/javascript-node:0-18",
     "customizations": {
         "vscode": {
